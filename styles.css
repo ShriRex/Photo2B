@@ -10,7 +10,7 @@ body {
   overflow-y: hidden;
   height: 100%;
   min-height: fit-content;
-  display: grid;
+  display: flex;
   place-items: center;
 }
 
