@@ -30,7 +30,7 @@ body {
   justify-content: center;
   align-items: center;
   animation: scroll 135s linear infinite;
-  margin-left: 100vw;
+  margin-left: 50vw;
   gap: 5vw;
 }
 
