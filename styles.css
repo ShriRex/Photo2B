@@ -29,9 +29,9 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  animation: scroll 150s linear infinite;
+  animation: scroll 135s linear infinite;
   margin-left: 100vw;
-  animation-delay: 0.05s;
+  animation-delay: 0.005s;
   gap: 5vw;
 }
 
