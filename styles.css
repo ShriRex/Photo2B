@@ -21,7 +21,7 @@ body {
   width: 100%;
   display: grid;
   place-items: center;
-  align-content: center;
+  align-items: center;
   justify-content: center;
   overflow: hidden;
   white-space: nowrap;
