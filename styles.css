@@ -1,6 +1,6 @@
 html {
   scroll-behavior: smooth;
-  height: 100%;
+  height: fit-content;
 }
 
 
@@ -8,7 +8,7 @@ body {
   background-color: #BBE2EC;
   color: #000000;
   overflow-y: hidden;
-  min-height: 100%;
+  min-height: fit-content;
   display: grid;
   place-items: center;
 }
@@ -27,7 +27,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  animation: scroll 100s linear infinite;
+  animation: scroll 120s linear infinite;
   margin-left: 100vw;
   animation-delay: 0.05s;
   gap: 5vw;
