@@ -32,7 +32,7 @@ body {
   align-items: center;
   animation: scroll 150s linear infinite;
   margin-left: 100vw;
-  animation-delay: 0.05s;
+  animation-delay: 0.5s;
   gap: 5vw;
 }
 
