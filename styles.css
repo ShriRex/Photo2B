@@ -29,7 +29,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  animation: scroll 135s linear infinite;
+  animation: scroll 120s linear infinite;
   margin-left: 60vw;
   gap: 5vw;
 }
