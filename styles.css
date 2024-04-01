@@ -10,7 +10,8 @@ body {
   overflow-y: hidden;
   height: 100%;
   min-height: fit-content;
-  display: contents;
+  display: flex;
+  flex-wrap: nowrap;
   place-items: center;
 }
 
@@ -20,6 +21,8 @@ body {
   width: 100%;
   display: grid;
   place-items: center;
+  align-content: center;
+  justify-content: center;
   overflow: hidden;
   white-space: nowrap;
 }
@@ -32,7 +35,6 @@ body {
   margin-left: 100vw;
   animation-delay: 0.05s;
   gap: 5vw;
-  margin: 2vw;
 }
 
 
