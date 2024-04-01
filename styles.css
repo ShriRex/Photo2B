@@ -8,6 +8,7 @@ body {
   background-color: #BBE2EC;
   color: #000000;
   overflow-y: hidden;
+  height: 100%;
   min-height: fit-content;
   display: grid;
   place-items: center;
