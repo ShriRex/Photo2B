@@ -31,7 +31,6 @@ body {
   align-items: center;
   animation: scroll 135s linear infinite;
   margin-left: 100vw;
-  animation-delay: 0.005s;
   gap: 5vw;
 }
 
